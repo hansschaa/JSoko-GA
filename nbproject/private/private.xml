@@ -3,12 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/leveldata/solutions/SolutionsManager.java</file>
-            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/solver/GeneratorGUI.java</file>
-            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/JSoko.java</file>
-            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/gui/StartStopButton.java</file>
-            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/resources/texts/texts_es.properties</file>
-            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/solver/SolverGUI.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/Generator.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/Jenes/Jenes.2.2.1.r765.src/jenes/population/Fitness.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/SokobanGA.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/Jenes/Jenes.2.2.1.r765.src/jenes/tutorials/problem1/BooleanProblem.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/GeneratorGUI.java</file>
         </group>
     </open-files>
 </project-private>

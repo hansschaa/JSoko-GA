@@ -5,6 +5,7 @@
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
             <name>Soko</name>
             <source-roots>
+                <root id="src.Jenes.2.2.1.r765.src.dir"/>
                 <root id="src.dir"/>
                 <root id="resources.dir"/>
                 <root id="src2.dir"/>
