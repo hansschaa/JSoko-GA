@@ -4,11 +4,11 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/SokobanFitness.java</file>
-            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/Directions.java</file>
             <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/SokoNode.java</file>
             <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/JSoko.java</file>
             <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/Generator.java</file>
             <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/Pair.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/SokobanChromosome.java</file>
             <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/SokobanChromosomeUtils.java</file>
             <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/SokoTree.java</file>
         </group>
