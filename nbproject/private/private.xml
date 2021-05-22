@@ -6,11 +6,12 @@
             <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/SokobanFitness.java</file>
             <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/MyBoxData.java</file>
             <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/Generator.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/ChangePlayerPosMutator.java</file>
             <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/SokobanGA.java</file>
             <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/SokobanChromosome.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/InvertBoxGoalPosMutator.java</file>
             <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/SokobanChromosomeUtils.java</file>
             <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/solver/SolverAStar.java</file>
-            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/GeneratorGUI.java</file>
             <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/SokoBoard/SokoBoard.java</file>
         </group>
     </open-files>
