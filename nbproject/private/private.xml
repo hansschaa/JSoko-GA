@@ -3,16 +3,24 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/SokobanFitness.java</file>
-            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/MyBoxData.java</file>
-            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/Generator.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/optimizer/OptimizerSolution.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/solver/SolverAStarPushesMoves.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/optimizer/Optimizer.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/optimizer/GUI/OptimizerGUI.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/Jenes/Jenes.2.2.1.r765.src/jenes/GeneticAlgorithm.java</file>
             <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/ChangePlayerPosMutator.java</file>
-            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/SokobanGA.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/Jenes/Jenes.2.2.1.r765.src/jenes/population/Fitness.java</file>
             <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/SokobanChromosome.java</file>
             <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/InvertBoxGoalPosMutator.java</file>
-            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/SokobanChromosomeUtils.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/Jenes/Jenes.2.2.1.r765.src/jenes/stage/operator/common/TournamentSelector.java</file>
             <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/solver/SolverAStar.java</file>
-            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/SokoBoard/SokoBoard.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/leveldata/solutions/Solution.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/Jenes/Jenes.2.2.1.r765.src/jenes/stage/Sequence.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/MyBoxData.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/SokobanGA.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/SokoCrossover.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/generator/SokobanChromosomeUtils.java</file>
+            <file>file:/C:/Users/hansschaa/Desktop/JSoko%20src/src/de/sokoban_online/jsoko/solver/SolverGUI.java</file>
         </group>
     </open-files>
 </project-private>
